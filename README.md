@@ -48,8 +48,9 @@ The average person spends about six months of their life waiting for red traffic
 [![LinkedIn](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/linkedin-light.svg)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
 [![LinkedIn](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
 &nbsp;&nbsp;
-[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/email-light.svg)](mailto:binjachchaimaa@gmail.com)
-[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/email-dark.svg)](mailto:binjachchaimaa@gmail.com)
+[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/gmail-light.svg)](mailto:binjachchaimaa@gmail.com)
+[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/gmail-dark.svg)](mailto:binjachchaimaa@gmail.com)
+
 
 
 
