@@ -19,7 +19,7 @@ The average person spends about six months of their life waiting for red traffic
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-> My Tech Stack 
+# 🛠 Tech Stack
 <div align="center">
     <img height="200px" src="https://github-readme-stats-api.vercel.app/api/top-langs/?username=ChaimaeBinjach&theme=gruvbox_light&layout=compact"/>
 </div>
@@ -34,9 +34,7 @@ The average person spends about six months of their life waiting for red traffic
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ChaimaeBinjach&theme=github"/>
 </div>
 
-<div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/ChaimaeBinjach?template=classic&config.timezone=Europe%2FParis"/>
-</div>
+
 
 # 🌱 Social
 
@@ -45,11 +43,10 @@ The average person spends about six months of their life waiting for red traffic
 </div>
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/linkedin-light.svg)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
-[![LinkedIn](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
 &nbsp;&nbsp;
-[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/gmail-light.svg)](mailto:binjachchaimaa@gmail.com)
-[![Email](https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/img/gmail-dark.svg)](mailto:binjachchaimaa@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:binjachchaimaa@gmail.com)
+
 
 
 
