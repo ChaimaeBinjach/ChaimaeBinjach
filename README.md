@@ -33,7 +33,9 @@ The average person spends about six months of their life waiting for red traffic
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ChaimaeBinjach&theme=github"/>
 </div>
-
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+</div>
 
 
 # 🌱 Social
