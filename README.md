@@ -17,7 +17,8 @@ The average person spends about six months of their life waiting for red traffic
 
 <!--🐱CAT-->
 <p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" alt="Animated cat gif">
+
 
 # 🛠 Tech Stack
 <div align="center">
