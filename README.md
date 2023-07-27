@@ -3,15 +3,13 @@
 </h1>
 
 
-
-
-
-
-
-
-<!--📊💬STATTITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+<a href="https://trinib.wrapped.run"><b>My GitHub Showcase</b></a>
+
+
+
+
+
 
 
 **A star from you would make my day! ★❤️**
