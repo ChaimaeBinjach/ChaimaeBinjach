@@ -63,6 +63,11 @@ The average person spends about six months of their life waiting for red traffic
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+<div align="center">
+  Shiny Chaimae★❤️
+</div>
+
 ** Shiny Chaimae★❤️**
 
 
