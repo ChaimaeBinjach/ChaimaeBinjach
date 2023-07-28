@@ -1,7 +1,7 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Chaimae%2C+(Shiny);Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
-### 👋 About Me
+# 👋 About Me
 
 👋 I'm Chaimae, a tech enthusiast with a passion for problem-solving and continuous learning. I love exploring new technologies and finding innovative solutions to challenges. Excited to make a meaningful impact in the tech world! 😊
 
@@ -34,6 +34,7 @@ The average person spends about six months of their life waiting for red traffic
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=ChaimaeBinjach&theme=github"/>
 </div>
+
 <div align="center">
     <img height="300px" src="https://metrics.lecoq.io/ChaimaeBinjach?template=classic&config.timezone=Europe%2FParis"/>
 </div>
@@ -46,7 +47,7 @@ The average person spends about six months of their life waiting for red traffic
     <img height="150px" src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&&title=MultiLanguage,Repositories,Commits&column=3&margin-w=30&margin-h=15"/>
 </div>
 
-### Connect with me:
+# ✉ Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chaimae-binjach-89a9b3253/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:binjachchaimaa@gmail.com)
