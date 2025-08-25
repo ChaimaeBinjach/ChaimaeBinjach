@@ -65,11 +65,14 @@ That’s a lot of time in “traffic limbo”! 😅
 
 
 
-# 🚀 Featured Project  
+# 🚀 Featured Projects  
 
 <p align="center">
   <a href="https://github.com/ChaimaeBinjach/Superstore-Sales-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=Superstore-Sales-Analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/ChaimaeBinjach/kaggle-survey-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=kaggle-survey-analysis&theme=radical" />
   </a>
 </p>
 
@@ -90,16 +93,6 @@ That’s a lot of time in “traffic limbo”! 😅
 ### 💡 Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-
-
-# 🌟 Fun Badges  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-25D366?style=for-the-badge&logo=Handshake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Always%20Learning-FF6F00?style=for-the-badge&logo=Google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tech%20Enthusiast-4285F4?style=for-the-badge&logo=Atom&logoColor=white"/>
 </p>
 
 
