@@ -85,14 +85,12 @@ That’s a lot of time in “traffic limbo”! 😅
   <img src="https://komarev.com/ghpvc/?username=ChaimaeBinjach&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-### 📊 GitHub Contributions Overview  
+# 🎨 Project Gallery  
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/ChaimaeBinjach" alt="ChaimaeBinjach's GitHub Contribution Chart" />
+  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/Superstore-Sales-Analysis/main/images/dashboard.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/kaggle-survey-analysis/main/images/analysis.png" width="300"/>
 </p>
-
-**Context:**  
-> This chart visualizes my GitHub contributions over the past year. Each block represents a day I’ve committed code, showing my consistency, project involvement, and growth as a developer. It’s a quick and clear snapshot of my coding activity and dedication to continuous learning.
 
 
 
