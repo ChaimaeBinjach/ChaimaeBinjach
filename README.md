@@ -85,12 +85,15 @@ That’s a lot of time in “traffic limbo”! 😅
   <img src="https://komarev.com/ghpvc/?username=ChaimaeBinjach&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
 
-# 🎨 Project Gallery  
+### 🚀 Currently Learning
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/Superstore-Sales-Analysis/main/images/dashboard.png" width="300"/>
-  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/kaggle-survey-analysis/main/images/analysis.png" width="300"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white"/>
 </p>
+
 
 
 
