@@ -46,7 +46,7 @@ That’s a lot of time in “traffic limbo”! 😅
 </p>
 
 <div align="center">
-  <!-- Forcing Python & JS to show -->
+  <!-- Force Python & JS -->
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeBinjach&theme=radical&layout=compact&langs_count=6&hide=html,css" />
 </div>
 
@@ -65,36 +65,11 @@ That’s a lot of time in “traffic limbo”! 😅
 
 
 
-# 🏆 Achievements  
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
-</div>
-
-
-
-# 🚀 Featured Projects  
+# 🚀 Featured Project  
 
 <p align="center">
   <a href="https://github.com/ChaimaeBinjach/Superstore-Sales-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=Superstore-Sales-Analysis&theme=radical" />
-  </a>
-  <a href="https://github.com/ChaimaeBinjach/RFM-Customer-Segmentation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=RFM-Customer-Segmentation&theme=radical" />
-  </a>
-</p>
-
-
-
-# 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/chaimae-binjach-89a9b3253/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:binjachchaimaa@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
 </p>
 
@@ -105,6 +80,11 @@ That’s a lot of time in “traffic limbo”! 😅
 ### 👀 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaimaeBinjach&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ### 💡 Random Dev Quote  
@@ -120,6 +100,20 @@ That’s a lot of time in “traffic limbo”! 😅
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-25D366?style=for-the-badge&logo=Handshake&logoColor=white"/>
   <img src="https://img.shields.io/badge/Always%20Learning-FF6F00?style=for-the-badge&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tech%20Enthusiast-4285F4?style=for-the-badge&logo=Atom&logoColor=white"/>
+</p>
+
+
+
+# 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaimae-binjach-89a9b3253/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:binjachchaimaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 
