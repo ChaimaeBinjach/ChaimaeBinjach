@@ -87,8 +87,9 @@ That’s a lot of time in “traffic limbo”! 😅
 
 ### 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ChaimaeBinjach/ChaimaeBinjach/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
+
 
 ### 💡 Random Dev Quote  
 <p align="center">
