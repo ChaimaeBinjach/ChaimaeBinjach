@@ -40,13 +40,14 @@ That’s a lot of time in “traffic limbo”! 😅
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,js,html,css,sql,mysql,sqlite" /><br>
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,r,html,css,sql,mysql,sqlite" /><br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,anaconda" />
 </p>
 
 <div align="center">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeBinjach&theme=radical&layout=compact&langs_count=10"/>
+  <!-- Forcing Python & JS to show -->
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeBinjach&theme=radical&layout=compact&langs_count=6&hide=html,css" />
 </div>
 
 
@@ -67,7 +68,7 @@ That’s a lot of time in “traffic limbo”! 😅
 # 🏆 Achievements  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&theme=algolia&margin-w=15&margin-h=15&no-frame=true" />
 </div>
 
 
@@ -75,8 +76,12 @@ That’s a lot of time in “traffic limbo”! 😅
 # 🚀 Featured Projects  
 
 <p align="center">
-  <a href="https://github.com/ChaimaeBinjach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=Superstore-Sales-Analysis&theme=radical" /></a>
-  <a href="https://github.com/ChaimaeBinjach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=RFM-Customer-Segmentation&theme=radical" /></a>
+  <a href="https://github.com/ChaimaeBinjach/Superstore-Sales-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=Superstore-Sales-Analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/ChaimaeBinjach/RFM-Customer-Segmentation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=RFM-Customer-Segmentation&theme=radical" />
+  </a>
 </p>
 
 
@@ -100,11 +105,6 @@ That’s a lot of time in “traffic limbo”! 😅
 ### 👀 Visitor Counter  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChaimaeBinjach&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-### 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/ChaimaeBinjach/ChaimaeBinjach/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ### 💡 Random Dev Quote  
