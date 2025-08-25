@@ -4,14 +4,14 @@
   </a>
 </h1>
 
----
+
 
 ## 👋 About Me  
 
 🌸 Hi, I'm **Chaimae**, a passionate learner and problem-solver who loves exploring **new technologies** and building projects that make a difference.  
 🚀 My mission is to **grow every day**, challenge myself, and contribute meaningfully to the tech world.  
 
----
+
 
 ## 🌱 Interests  
 
@@ -20,7 +20,7 @@
 🔹 Big Data & Analytics  
 🔹 Problem-Solving & Innovation  
 
----
+
 
 ## ⚡ Fun Fact  
 
@@ -28,13 +28,13 @@
 The average person spends **6 months of their life** waiting at red traffic lights. 🚦  
 That’s a lot of time in “traffic limbo”! 😅  
 
----
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" alt="Animated cat gif">
 </p>
 
----
+
 
 # 🛠 Tech Stack  
 
@@ -49,7 +49,7 @@ That’s a lot of time in “traffic limbo”! 😅
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaeBinjach&theme=radical&layout=compact&langs_count=10"/>
 </div>
 
----
+
 
 # 🔭 GitHub Activity  
 
@@ -62,15 +62,24 @@ That’s a lot of time in “traffic limbo”! 😅
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaimaeBinjach&theme=react-dark&hide_border=true" width="95%"/>
 </div>
 
----
+
 
 # 🏆 Achievements  
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaimaeBinjach&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" />
 </div>
 
----
+
+
+# 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/ChaimaeBinjach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=Superstore-Sales-Analysis&theme=radical" /></a>
+  <a href="https://github.com/ChaimaeBinjach"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaimaeBinjach&repo=RFM-Customer-Segmentation&theme=radical" /></a>
+</p>
+
+
 
 # 🌐 Connect with Me  
 
@@ -84,7 +93,7 @@ That’s a lot of time in “traffic limbo”! 😅
   </a>
 </p>
 
----
+
 
 # ✨ Extras  
 
@@ -103,7 +112,17 @@ That’s a lot of time in “traffic limbo”! 😅
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
+
+
+# 🌟 Fun Badges  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaboration-25D366?style=for-the-badge&logo=Handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Always%20Learning-FF6F00?style=for-the-badge&logo=Google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-4285F4?style=for-the-badge&logo=Atom&logoColor=white"/>
+</p>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg" alt="animated line" />
